@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ### Black Access is founded by 👯
-- Vincent Villafuerte (Front-End Developer)
-- Christian Igbaras (Back-End Developer)
-- Ezekiel Lavapiez (Graphics Designer)
-- One Austine Sayson (Product-Pitch)
-Here are some ideas to get you started:
+- <a href="https://github.com/vinzvinci98">Vincent Villafuerte</a> 
+- <a href="https://github.com/Tiansing">Christian Igbaras</a> 
+- <a href="https://github.com/kiellavapiez">Ezekiel Lavapiez</a>
+- <strong>One Austine Sayson</strong> 
