@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Black Access is founded by 👯
+### Black Access is founded by 👯
 - Vincent Villafuerte (Front-End Developer)
 - Christian Igbaras (Back-End Developer)
 - Ezekiel Lavapiez (Graphics Designer)
